@@ -32,4 +32,4 @@ A simple desktop-based To-Do List application built using **Python, Tkinter, and
 - Improve UI design
 
 ## 🔗 GitHub Repository
-https://github.com/YOUR_USERNAME/CODESOFT_1
+https://github.com/Shubham9845/CODESOFT_1
